@@ -1,0 +1,19 @@
+{
+  "name": "eatdawings",
+  "version": "1.0.0",
+  "description": "eat all the wings you want!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/xproctor90/EatDaWings"
+  },
+  "keywords": [
+    "wings"
+  ],
+  "author": "Xavier",
+  "license": "ISC"
+}
