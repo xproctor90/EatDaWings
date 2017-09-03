@@ -16,7 +16,7 @@ router.get('/wings', function(req, res){
 	});
 });
 
-router.post('/wingss/create', function(req, res){
+router.post('/wings/create', function(req, res){
 	wings.create(['wings_name'], [req.body.b_name], function(data){
 		res.redirect('/wings')
 	});
