@@ -1,0 +1,15 @@
+var a = 1;
+
+for( i = 0; i = 1; i++ ) {
+
+var b = a + i;
+
+}
+
+function Math(a) {
+
+console.log(a, ' + ', b, ' = 3');
+
+}
+
+Math(a);
